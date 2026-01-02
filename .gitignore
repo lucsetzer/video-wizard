@@ -1,0 +1,21 @@
+# Secrets and config
+.env
+.env.local
+.env.*.local
+secrets/
+config/private/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
